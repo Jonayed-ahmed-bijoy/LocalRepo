@@ -1,0 +1,21 @@
+.container {
+    position: relative;
+    background: rgba(224, 20, 20, 0.8);
+    width: 100%;
+    height: 100vh;
+}
+.st{
+    background: black;
+    height : 33.33%;
+    width: 100%;
+}
+.nd{
+    background: white;
+    height : 33.33%;
+    width: 100%;
+}
+.rd{
+    background: blue;
+    height : 33.33%;
+    width: 100%;
+}
